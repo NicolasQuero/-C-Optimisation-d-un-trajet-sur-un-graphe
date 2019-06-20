@@ -1,0 +1,5 @@
+Le code par défaut va afficher un chemin pour la fonction crat avec des valeurs définies dans le fichier dijkstra.cpp.
+
+Il faut modifier les valeurs entre les lignes 11 et 22 dans le fichier dijkstra.cpp ainsi que la fonction "f" du coût dans points_gnu.cpp pour modifier la sortie.
+
+Pour utiliser le code sous Windows, il faut mettre en commentaire la ligne 91 et enlever les "//" à la ligne 92 (gnuplot doit être accessible à l'adresse C:\\Program Files\\gnuplot\\bin\\wgnuplot.exe).
